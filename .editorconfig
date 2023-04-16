@@ -1,0 +1,4 @@
+[*.cs]
+dotnet_diagnostic.RMG012.severity = error # Unmapped target property
+dotnet_diagnostic.RMG020.severity = error # Unmapped source property
+dotnet_diagnostic.CS8618.severity = none # Non-nullable field is uninitialized. Consider declaring as nullable.
